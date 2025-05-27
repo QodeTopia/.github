@@ -54,3 +54,8 @@ Er meckert, wenn ~~dein~~ mein Code doof ist – und feiert, wenn’s klappt.
 
 > [!NOTE]
 > Wir freuen uns über jede Beteiligung – besonders auf kreative Umsetzungen und schrägen Code, über den Emil sich aufregen kann.
+
+--- 
+
+&copy; 2025-2025 Markus von Rüden / QodeTopia  
+[[Impressum und Datenschutz](https://qodetopiade.netlify.app/impressum.html)]
